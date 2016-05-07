@@ -1,0 +1,22 @@
+# Blender MTL File: 'None'
+# Material Count: 2
+
+newmtl Track_png
+Ns 80.392157
+Ka 0.000000 0.000000 0.000000
+Kd 0.262144 0.262144 0.262144
+Ks 0.400000 0.400000 0.400000
+Ni 1.500000
+d 0.000000
+illum 2
+map_Kd Track.bmp
+
+newmtl tex_0024_1_png
+Ns 80.392157
+Ka 0.000000 0.000000 0.000000
+Kd 0.262144 0.262144 0.262144
+Ks 0.400000 0.400000 0.400000
+Ni 1.500000
+d 0.000000
+illum 2
+map_Kd Tex_0024_1.bmp
